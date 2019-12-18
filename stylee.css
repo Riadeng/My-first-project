@@ -1,0 +1,20 @@
+
+
+body{
+  margin-top:70px;
+  background: rgb(26, 24, 24);
+  color:rgb(12, 218, 245);
+  position: absolute;
+  left: 550px;
+  right: 550px;
+}
+.card-block{
+  background: rgb(9, 210, 236);
+}
+.card{
+  background: rgb(232, 255, 22);
+  color: black;
+}
+.block{
+  background: rgb(9, 247, 175);
+}
